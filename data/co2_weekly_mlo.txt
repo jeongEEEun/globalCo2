@@ -1,0 +1,32 @@
+These data are made freely available to the public and the scientific community in the belief that their wide dissemination will lead to greater understanding and new scientific insights.
+The availability of these data does not constitute publication of the data.  NOAA relies on the ethics and integrity of the user to ensure that GML receives fair credit for their work.  If the data are obtained for potential use in a publication or presentation GML should be informed at the outset of the nature of this work.
+If the GML or if an important data are essential to the work result or conclusion depends on the GML data co-authorship may be appropriate.  This should be discussed at an early stage in the work.  Manuscripts using the GML data should be sent to GML for review before they are submitted for publication so we can ensure that the quality and limitations of the data are accurately represented.
+
+------------------------------------------------------------------------------------
+
+RECIPROCITY
+
+Use of these data implies an agreement to reciprocate. Laboratories making similar measurements agree to make their own data available to the general public and to the scientific community in an equally complete and easily accessible form. Modelers are encouraged to make available to the community upon request their own tools used in the interpretation of the GML data namely well documented model code transport
+
+fields modeled mole fractions and additional information necessary for other scientists to repeat the work and to run modified versions. Model availability includes collaborative support for new users of the models.
+
+NOTE: DATA FOR THE LAST SEVERAL MONTHS ARE PRELIMINARY	 ARE STILL SUBJECT TO QUALITY CONTROL PROCEDURES.							
+NOTE: The week "1 yr ago" is exactly 365 days ago	 and thus does not run from Sunday through Saturday. 365 also ignores the possibility of a leap year.							
+The week "10 yr ago" is exactly 10*365 days +3 days (for leap years) ago.											
+NOTE: Due to the eruption of the Mauna Loa Volcano	 measurements from Mauna Loa Observatory were suspended as of Nov. 29	 2022. Observations starting in December 2022 are from a site at the Maunakea Observatories	 approximately 21 miles north of the Mauna Loa Observatory.						
+이러한 데이터는 대중과 과학계가 자유롭게 이용할 수 있게 되어 광범위한 보급이 더 큰 이해와 새로운 과학적 통찰력으로 이어질 것으로 믿고 있습니다.
+이러한 데이터의 가용성은 데이터의 게시를 구성하지 않습니다. NOAA는 사용자의 윤리와 무결성에 의존하여 GML이 그들의 작업에 대해 공정한 평가를 받도록 보장합니다. 자료가 출판물이나 프리젠테이션에 사용될 가능성이 있는 경우, 이 작업의 시작 부분에 GML에 정보를 제공해야 합니다.
+GML 또는 작업 결과 또는 결론에 중요한 데이터가 필수적인 경우 GML 데이터 공저자에 따라 달라질 수 있습니다. 이것은 작업의 초기 단계에서 논의되어야 합니다. GML 데이터를 사용하는 원고는 출판을 위해 제출되기 전에 검토를 위해 GML로 보내져야 데이터의 품질과 한계를 정확하게 표현할 수 있습니다.
+
+------------------------------------------------------------------------------------
+
+호혜성
+
+이러한 데이터를 사용하는 것은 답례에 동의한다는 것을 의미합니다. 유사한 측정을 수행하는 연구소는 자체 데이터를 일반 대중과 과학계가 동일하게 완전하고 쉽게 접근할 수 있는 형태로 사용할 수 있도록 하는 데 동의합니다. 모델러는 GML 데이터 해석에 사용되는 자체 도구, 즉 잘 문서화된 모델 코드 전송을 요청할 때 커뮤니티에 제공할 것을 권장합니다
+
+필드 모델링 몰 분율 및 다른 과학자가 작업을 반복하고 수정된 버전을 실행하는 데 필요한 추가 정보. 모델 가용성에는 모델의 새로운 사용자에 대한 공동 지원이 포함됩니다.
+
+참고: 지난 몇 달 동안의 데이터는 여전히 품질 관리 절차를 따릅니다.
+참고: "1년 전" 주는 정확히 365일 전이므로 일요일부터 토요일까지 실행되지 않습니다. 365 또한 윤년의 가능성을 무시합니다.
+"10년 전" 주는 정확히 10*365일 +3일 전(윤년일 경우)입니다.
+참고: 마우나 로아 관측소의 마우나 로아 화산 폭발로 인해 2022년 11월 29일부터 측정이 중단되었습니다. 2022년 12월에 시작되는 관측은 마우나 로아 천문대에서 북쪽으로 약 21마일 떨어진 마우나케아 천문대의 현장에서 나온 것입니다.
